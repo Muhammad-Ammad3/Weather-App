@@ -8,6 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #d9c6f3, #c3aed6, #a084dc);
 }
 
 .app {
