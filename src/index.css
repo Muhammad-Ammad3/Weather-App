@@ -1,18 +1,1 @@
 @import "tailwindcss";
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #d9c6f3, #c3aed6, #a084dc);
-}
-
-.app {
-  min-height: 100vh;
-  display: grid;
-  background: #e2d4ff;
-}
